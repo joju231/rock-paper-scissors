@@ -1,9 +1,4 @@
-
-//7.Fer que pari a les 5 rondes
-
-
-
-
+alert("Open the web page console to view the results")
 
 function getComputerChoice() {
     const random = Math.random()
