@@ -1,4 +1,4 @@
-alert("Open the web page console to view the results")
+alert("Click OK and then click Cancel, then open de webpage console and refresh the website")
 
 function getComputerChoice() {
     const random = Math.random()
